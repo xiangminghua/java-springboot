@@ -22,7 +22,7 @@ public class HomeController {
     @ResponseBody
     @RequestMapping("home/getAlerts")
     public List<Alert> GetList() {
-        //test
+        //test42345324
         //添加
         Alert alert = new Alert();
         alert.ALERTNO = "110";
